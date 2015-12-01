@@ -10,6 +10,8 @@ selector{
 body{ 
     background-color: lightgreen;
     background-image: url("https://cloud.githubusercontent.com/assets/15823647/11513759/f1d39844-9842-11e5-9232-6fe537e50a05.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
  
  
