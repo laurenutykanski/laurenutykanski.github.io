@@ -17,42 +17,6 @@ h1{
     text-decoration:underline
 }
  
-#faux {
-  position: relative;
-  z-index: 1;
-  width: 80%;
-  margin: 0 auto;
-  overflow: hidden;
-  background: #ffaf00;
-}
-
-#faux div {
-  position: relative;
-  float: left;
-  width: 30%;
-}
-
-#faux .main { left: 35%; }
-#faux .supp1 { left: -28.5%; }
-#faux .supp2 { left: 8.5%; }
-
-#faux:before,
-#faux:after {
-   content: "";
-   position: absolute;
-   z-index: -1;
-   top: 0;
-   right: 0;
-   bottom: 0;
-   left: 33.333%;
-   background: #f9b6ff;
-}
-
-#faux:after {
-   left: 66.667%;
-   background: #79daff;
-}
- 
 #header{
-    text-align:center;
+    text-align: center;
 }
