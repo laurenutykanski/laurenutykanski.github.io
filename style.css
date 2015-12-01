@@ -20,6 +20,14 @@ a {
 h1{
     text-decoration:underline
 }
+
+.selector
+{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
  
 #header{
     text-align: center;
